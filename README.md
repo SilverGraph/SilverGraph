@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raj Aryan </h1>
+<h1 align="center">Hi, I'm Raj Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 A Computer Science undergraduate I am currently working on MERN stack develpment and interested in learning container systems and Cloud architecture. I am also a Blockchain enthusiast and would love to work on this technology in future.
 
@@ -27,7 +27,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
    
 <div align="center">
    <br>
-<h1 align="center">Languages and Frameworks</h1>
+<h1 align="center" margin-top="20px">Languages and Frameworks</h1>
 
 <p align="center"> 
    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
