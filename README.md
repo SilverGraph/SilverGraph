@@ -15,11 +15,12 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 - 📫 How to reach me **rj.rajeryan00072@gmail.com**
 
 <div>
+   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2 align="left">Let's Get Connected</h2>
 
 <a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="auto" /></a>
 <a href="mailto:rj.rajeryan00072@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
    </div>
 <br>
    
