@@ -25,6 +25,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 <br>
    
 <div align="center">
+   <br>
 <h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
