@@ -23,6 +23,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <br>
    
+<div align="center">
 <h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
@@ -45,17 +46,18 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
    <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />
 </p>
-
+   </div>
 
 <hr>
 
-
+<div align="center">
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SilverGraph&show_icons=true&theme=dark&locale=en" alt="RajAryan" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverGraph&show_icons=true&theme=dark&locale=en&layout=compact" alt="RajAryan" /></td>
   </tr>
 </table>
+</div>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverGraph&theme=dark" alt="RajAryan" /></p>
