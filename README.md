@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"> Raj Aryan </a></h1>
+<h1 align="center">Hi, I'm Raj Aryan </h1>
 
 A Computer Science undergraduate I am currently working on MERN stack develpment and interested in learning container systems and Cloud architecture. I am also a Blockchain enthusiast and would love to work on this technology in future.
 
@@ -35,7 +35,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <div align="center">
 
-<a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="auto" /></a>
 <a href="https://twitter.com/Pallavi47044895" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:pallavipandey572@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
@@ -43,16 +43,16 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Pallavi679&show_icons=true&theme=dark&locale=en" alt="PallaviPandey" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pallavi679&show_icons=true&theme=dark&locale=en&layout=compact" alt="PallaviPandey" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SilverGraph&show_icons=true&theme=dark&locale=en" alt="RajAryan" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverGraph&show_icons=true&theme=dark&locale=en&layout=compact" alt="RajAryan" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi679&theme=dark" alt="PallaviPandey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverGraph&theme=dark" alt="RajAryan" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pallavi679&label=Profile%20views&color=6805D3&style=flat" alt="PallaviPandey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SilverGraph&label=Profile%20views&color=6805D3&style=flat" alt="RajAryan" /> </p>
    <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Pallavi679&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=SilverGraph&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
 
