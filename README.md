@@ -21,7 +21,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 <a href="mailto:rj.rajeryan00072@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h1 align="center">Languages and Frameworks</h1>
+<br><h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
