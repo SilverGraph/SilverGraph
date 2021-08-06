@@ -21,7 +21,9 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 <a href="mailto:rj.rajeryan00072@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<br><h1 align="center">Languages and Frameworks</h1>
+<br>
+   
+<h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
@@ -38,8 +40,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
    <img alt="expressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50px" width="auto"  />
    <img alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="auto"  />
    <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50px" width="auto"  />
-   <img alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="50px" width="auto"  />
-   
+   <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px" width="auto"  />
    <img alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50px" width="auto"  />
    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
    <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />
