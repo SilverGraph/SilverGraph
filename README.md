@@ -7,38 +7,35 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 <h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
-<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
-   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Php" src="https://img.shields.io/badge/-php-%8A5BE2.svg?&style=for-the-badge&logo=php&logoColor=white" "/>
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
+   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px" width="auto"  />
+   <img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="auto"  />
+   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="auto"  />
+   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="auto"  />
 </p>
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<p align="center"> 
+   <img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50px" width="auto"  />
+   <img alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50px" width="auto"  />
+   <img alt="reactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="auto"  />
+   <img alt="nodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" width="auto"  />
+   <img alt="expressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50px" width="auto"  />
+   <img alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="auto"  />
+   <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50px" width="auto"  />
+   <img alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="50px" width="auto"  />
+   
+   <img alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50px" width="auto"  />
+   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
+   <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />
+</p>
 
-<h1 align="center">Projects</h1>
-
-
-
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Portfolio ](https://pallavi679.github.io/Portfolio/)   | Portfolio   | issued.© 2021 Pallavi Pandey|
-| [Online Banking System ](http://bankingsystem.infinityfreeapp.com/)   | This is a Online Basic Banking System created in my Internship at Spark Foundation   | issued.© 2021 Pallavi Pandey|
-| [Online Survey ](https://github.com/Pallavi679/BlueBell)   | This is Online Survey system created for college mini project   | issued.© 2021 Pallavi Pandey|
 
 <hr>
-
-<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
 
-
-<a  href="https://www.linkedin.com/in/pallavi-pandey-8237791a0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://twitter.com/Pallavi47044895" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:pallavipandey572@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
