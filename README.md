@@ -4,6 +4,23 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <h3 align="center">A Passionate MERN stack Developer | Blockchain enthusiast </h3>
 
+<h2> More about me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+- 🔭 I’m currently working on [Tip-calculator app](https://github.com/SilverGraph/reactJS-Challenges/tree/master/11-tip-calculator-app)
+
+- 🌱 I’m currently learning **React, Authentication and Security**
+
+- 💬 Ask me about **C++ , Javascript , Git , Blockchain**
+
+- 📫 How to reach me **rj.rajeryan00072@gmail.com**
+
+
+<h2 align="left">Let's Get Connected</h2>
+
+<a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="auto" /></a>
+<a href="mailto:rj.rajeryan00072@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <h1 align="center">Languages and Frameworks</h1>
 
 <p align="center"> 
@@ -31,15 +48,6 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <hr>
 
-<h1 align="center">Let's Get Connected</h1>
-
-<div align="center">
-
-<a  href="https://www.linkedin.com/in/raj-aryan-33aa861b9/" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" width="auto" /></a>
-<a href="https://twitter.com/Pallavi47044895" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:pallavipandey572@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-</div>
 
 <table>
   <tr>
