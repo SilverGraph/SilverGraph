@@ -6,7 +6,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <h2> More about me 
 
-- 🔭 I recently worked on [Loop-studios-landing-page](https://github.com/SilverGraph/reactJS-Challenges/tree/master/loopstudios-landing-page-main)
+- 🔭 I recently worked on [Loop-studios-landing-page](https://github.com/SilverGraph/reactJS-Challenges/tree/master/loopstudios-landing-page-react)
 
 - 🌱 I’m currently learning **React and Redux**
 
