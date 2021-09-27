@@ -6,7 +6,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <h2> More about me 
 
-- 🔭 I am currently working on [HarbourX-project](https://github.com/SilverGraph/Hackathon-Project)
+- 🔭 I recently worked on [HarbourX-project](https://github.com/SilverGraph/Hackathon-Project)
 
 - 🌱 I’m currently learning **Solidity and Ethereum**
 
