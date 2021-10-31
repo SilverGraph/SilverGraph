@@ -6,7 +6,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
 
 <h2> More about me 
 
-- 🔭 I recently worked on [movieNix-project](https://github.com/saswatsam786/movieNix)
+- 🔭 I am currently working on [movieNix-project](https://github.com/saswatsam786/movieNix)
 
 - 🌱 I’m currently learning **Solidity and Ethereum**
 
