@@ -43,6 +43,7 @@ A Computer Science undergraduate I am currently working on MERN stack develpment
    <img alt="nodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" width="auto"  />
    <img alt="expressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50px" width="auto"  />
    <img alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="auto"  />
+   <img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="auto" height="50"/>
    <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50px" width="auto"  />
    <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px" width="auto"  />
    <img alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50px" width="auto"  />
