@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Raj Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-A Computer Science undergraduate I am currently working on MERN stack develpment and interested in learning container systems and Cloud architecture. I am also a Blockchain enthusiast and would love to work on this technology in future.
+A Computer Science undergraduate I am currently working on Full-stack develpment and interested in learning Linux system administration and Cloud. I am also a DevOps enthusiast and would love to work in this field in future.
 
-<h3 align="center">A Passionate MERN stack Developer | Blockchain enthusiast </h3>
+<h3 align="center">Full-Stack | Cloud & DevOps</h3>
 
 <h2> More about me 
    
-- 🔭 I recently worked on [movieNix-project](https://github.com/saswatsam786/movieNix)
+- 🛠️ I recently worked on [movieNix-project](https://github.com/saswatsam786/movieNix)
+   
+- 💻 I am currently working as a Full-stack developer intern at [Tokhimo Inc.](https://www.linkedin.com/company/tokhimo/)
 
-- 🌱 I’m currently learning **Cloud and AWS**
+- 🔍 Exploring **Cloud and AWS**
 
-- 💬 Ask me about **C++ , Javascript , Git , Blockchain**
+- 💬 Ask me about **C++ , Javascript , Git , Cloud**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <div>
