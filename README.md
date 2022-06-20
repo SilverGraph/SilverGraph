@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raj Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hi, I'm Raj Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px" height="30px"> </h1>
 
 A Computer Science undergraduate I am currently working on Full-stack develpment and interested in learning Linux system administration and Cloud. I am also a DevOps enthusiast and would love to work in this field in future.
 
@@ -45,7 +45,7 @@ A Computer Science undergraduate I am currently working on Full-stack develpment
 </p>
 <p align="center"> 
    <img alt="reactJS" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="auto"  />
-   <img alt="nextJS" title="Next.js" src="https://i.imgur.com/Vk1Yiw5.png" height="50px" width="auto" />
+<!--    <img alt="nextJS" title="Next.js" src="https://i.imgur.com/Vk1Yiw5.png" height="50px" width="auto" /> -->
    <img alt="jquery" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50px" width="auto"  />
    <img alt="redux" title="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" width="auto" />
    <img alt="jest" title="Jest" src="https://camo.githubusercontent.com/745d5f0d446a0b5d0013551c7e7ea865e3c7d10331920692767c7ad73dc8b63c/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337333730302f6a6573742e737667" height="50px" width="auto"  />
@@ -55,7 +55,7 @@ A Computer Science undergraduate I am currently working on Full-stack develpment
    <br />
    <img alt="nodeJS" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" width="auto"  />
    <img alt="expressJS" title="Express.js" src="https://i.imgur.com/K0Fsh3w.png" height="50px" width="auto"  />
-   <img alt="strapi" title="Strapi" src="https://camo.githubusercontent.com/50fd91f089aa5d9152c191f8fdc111d1879f9d174983a5657bfc7a666d5def1d/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343339392f7374726170692d69636f6e2e737667" height="50px" width="auto"  />
+<!--    <img alt="strapi" title="Strapi" src="https://camo.githubusercontent.com/50fd91f089aa5d9152c191f8fdc111d1879f9d174983a5657bfc7a666d5def1d/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343339392f7374726170692d69636f6e2e737667" height="50px" width="auto"  /> -->
    <img alt="psql" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px" width="auto" />
    <img alt="mongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="auto"  />
    <img alt="firebase" title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="auto" height="50"/>
