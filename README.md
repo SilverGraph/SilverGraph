@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Raj Aryan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px" height="30px"> </h1>
 
-A Computer Science undergraduate I am currently working on Full-stack develpment and interested in learning Linux system administration and Cloud. I am also a DevOps enthusiast and would love to work in this field in future.
+A Computer Science undergraduate I am a Full-stack developer, interested in learning Linux, system administration and cloud. I am also a DevOps enthusiast and would love to work in this field in future.
 
-<h3 align="center">Full-Stack | Cloud & DevOps</h3>
+<h3 align="center">Linux | SysAdmin | DevOps</h3>
 
 <h2> More about me 
    
 - 🛠️ I recently worked on [movieNix-project](https://github.com/saswatsam786/movieNix)
    
-- 💻 I am currently working as a Full-stack developer intern at [Tokhimo Inc.](https://www.linkedin.com/company/tokhimo/)
+- 💻 I recently worked as a part-time Full-stack developer at [Tokhimo Inc.](https://www.linkedin.com/company/tokhimo/)
 
-- 🔍 Exploring **Cloud and AWS**
+- 🔍 Exploring **Linux and system administration**
 
-- 💬 Ask me about **C++ , Javascript , Git , Cloud**
+- 💬 Ask me about **C++ , Javascript , Git , Linux**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <div>
